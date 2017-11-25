@@ -13,7 +13,7 @@ and the categorisation is based on [Sibyter](https://play.google.com/store/apps/
   
 * Combinatorics
   * [Enumeration of arrangements]()
-  * [Binomial coefficients and factorials]
+  * [Binomial coefficients and factorials]()
   * [Enumeration of combinations]()
   * [Enumeration of combinatorial sequences]()
   * [Enumeration of partitions]()
@@ -74,19 +74,47 @@ and the categorisation is based on [Sibyter](https://play.google.com/store/apps/
   * [Treap with implicit keys and interval modification]()
   
 * Depth_First_Search
-  * Biconnectivity - Bridges, cut points, edge biconnected components, condenstaion tree
-  * Non recursive DFS
-  * Eulerian Cycle
-  * Strongly Connected Components - Kosaraju's Algorithm
-  * Strongly Connected Components - Tarjan's Algorithm
-  * Tarjan's Algorithm for SCC without recursion
-  * SCCTest.java
-  * SCCTransitiveClosure.java
-  * TopologicalSort.java
+  * [Biconnectivity - Bridges, cut points, edge biconnected components, condenstaion tree]()
+  * [Non recursive DFS]()
+  * [Eulerian Cycle]()
+  * [Strongly Connected Components - Kosaraju's Algorithm]()
+  * [Strongly Connected Components - Tarjan's Algorithm]()
+  * [Tarjan's Algorithm for SCC without recursion]()
+  * [Test for all SCC algorithms]()
+  * [SCC - Transitive closure algorithm]()
+  * [Topological sorting]()
 
 * Dynamic_Programming
+  * [Convex Hull Optimization]()
+  * [Domino Fill]()
+  * [Linear Equality - number of solutions]()
+  * [Longest Increasing Subsequence]()
+  * [Optimal matrix chain multiplication]()
+  * [Longest Palindromic Subsequence]()
+  * [Shortest Hamiltonian Cycle - second version]()
+  * [Shortest Hamiltonian Cycle ]()
+  * [Shortest Hamiltonian Path]()
+  * [String Distances]()
+  
 * Elementary_Algorithms
+  * [Binary Exponentiation]()
+  * [Binary Search ]()
+  * [Ternary Search ]()
+
 * Flows
+  * Hungarian algorithm for assignment problem
+  * Max Flow - Dinic's algorithm
+  * Max Flow - Edmonds Karp algorithm
+  * Max Flow - Ford Fulkerson's algorithm
+  * Max Flow - Simplified Ford Fulkerson's
+  * Max Flow - Push relabel algorithm
+  * MaxFlowPreflowN4.java
+  * MaxFlowRetreat.java
+  * MinCostFlowBF.java
+  * MinCostFlowDense.java
+  * MinCostFlow.java
+  * MinCostFlowSimple.java
+
 * Geometry
 * Graphs
 * Linear_Algebra
