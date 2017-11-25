@@ -73,7 +73,7 @@ and the categorisation is based on [Sibyter](https://play.google.com/store/apps/
   * [Treap with implicit keys and interval modification - second version]()
   * [Treap with implicit keys and interval modification]()
   
-* Depth_First_Search
+* Depth_First Search
   * [Biconnectivity - Bridges, cut points, edge biconnected components, condenstaion tree]()
   * [Non recursive DFS]()
   * [Eulerian Cycle]()
@@ -84,7 +84,7 @@ and the categorisation is based on [Sibyter](https://play.google.com/store/apps/
   * [SCC - Transitive closure algorithm]()
   * [Topological sorting]()
 
-* Dynamic_Programming
+* Dynamic Programming
   * [Convex Hull Optimization]()
   * [Domino Fill]()
   * [Linear Equality - number of solutions]()
@@ -96,27 +96,56 @@ and the categorisation is based on [Sibyter](https://play.google.com/store/apps/
   * [Shortest Hamiltonian Path]()
   * [String Distances]()
   
-* Elementary_Algorithms
+* Elementary Algorithms
   * [Binary Exponentiation]()
   * [Binary Search ]()
   * [Ternary Search ]()
 
 * Flows
-  * Hungarian algorithm for assignment problem
-  * Max Flow - Dinic's algorithm
-  * Max Flow - Edmonds Karp algorithm
-  * Max Flow - Ford Fulkerson's algorithm
-  * Max Flow - Simplified Ford Fulkerson's
-  * Max Flow - Push relabel algorithm
-  * MaxFlowPreflowN4.java
-  * MaxFlowRetreat.java
-  * MinCostFlowBF.java
-  * MinCostFlowDense.java
-  * MinCostFlow.java
-  * MinCostFlowSimple.java
+  * [Hungarian algorithm for assignment problem]()
+  * [Max Flow - Dinic's algorithm]()
+  * [Max Flow - Edmonds Karp algorithm]()
+  * [Max Flow - Ford Fulkerson's algorithm]()
+  * [Max Flow - Simplified Ford Fulkerson's]()
+  * [Max Flow - Push relabel algorithm]()
+  * [MaxFlowPreflowN4]()
+  * [MaxFlowRetreat]()
+  * [Max Flow with min cost - Bellman Ford's algorithm]()
+  * [Max Flow with min cost - with potential for dense graphs]()
+  * [Min Cost Flow]()
+  * [Min Cost Flow Simple]()
 
 * Geometry
+  * [General - Angle,area,orientation,sort,rotation,perpendicular ]()
+  * [Circle Operations]()
+  * [Closest Points - in a planar point set using divide and conquer]()
+  * [Complex]()
+  * [Convex Cut]()
+  * [Convex Hull]()
+  * [Delaunay triangulation]()
+  * [Delaunay triangulation and Voronoi diagram]()
+  * [Connected graph using Force-Based method]()
+  * [Line Geometry]()
+  * [Point Classification]()
+  * [Point In Polygon]()
+  * [Point Location]()
+  * [Point Location Offline]()
+  * [Point Location Rtree]()
+  * [Point To Segment Distance]()
+  * [Polygon and Circle Intersection area]()
+  * [Polygons Intersection area]()
+  * [Random Polygon using 2-opt]()
+  * [Ray Sphere Intersections]()
+  * [Rectangle Union area using sweep line]()
+  * [Segments and Line Intersection]()
+  * [Finding a pair of intersected segments - second version]()
+  * [Finding a pair of intersected segments]()
+  * [Segments Union length]()
+  * [Vector2d class template]()
+  
 * Graphs
+
+
 * Linear_Algebra
 * Lowest_Common_Ancestor
 * Matching
