@@ -3,7 +3,7 @@
 A curated collection of algorithms and data structures implemented in Java. The code is from [indy256](https://github.com/indy256/codelibrary/tree/master/java/src)
 and the categorisation is based on [Sibyter](https://play.google.com/store/apps/details?id=com.izaron.pepperpied)
 
-## Categories
+## Contents
 
 * Backtracking
   * Bron–Kerbosch Algorithm
@@ -57,21 +57,21 @@ and the categorisation is based on [Sibyter](https://play.google.com/store/apps/
   * Persistent Tree
   * Quad Tree for rectangular queries on NxM board
   * Queue with minimum query in O(1)
-  * RmqSparseTable.java
-  * RTree.java
-  * SegmentTree2D.java
-  * SegmentTree2.java
-  * SegmentTree3D.java
-  * SegmentTreeFast2.java
-  * SegmentTreeFast.java
-  * SegmentTreeIntervalAddMax2.java
-  * SegmentTreeIntervalAddMax.java
-  * SegmentTree.java
-  * SegmentTreeSimple.java
-  * SegmentTreeSumLowerBound.java
-  * TreapBST.java
-  * TreapImplicitKey2.java
-  * TreapImplicitKey.java
+  * Range Minimum Query: Sparse Table
+  * RTree for nearest segment query
+  * 2D Segment Tree with single element modification
+  * Segment Tree second version
+  * 3D Segment Tree with single element modification
+  * Non Recursive Segment Tree - second version
+  * Non Recursive Segment Tree
+  * Segment Tree for Add/Max - second version
+  * Segment Tree for Add/Max
+  * Segment Tree with interval modification
+  * Segment Tree - Simple non recursive implementation
+  * Segment Tree with sum lower bound operation
+  * Treap with explicit keys
+  * Treap with implicit keys and interval modification - second version
+  * Treap with implicit keys and interval modification
   
 * Depth_First_Search
 * Dynamic_Programming
