@@ -144,11 +144,30 @@ and the categorisation is based on [Sibyter](https://play.google.com/store/apps/
   * [Vector2d class template]()
   
 * Graphs
+  * [Centroid Decomposition]()
+  * [Graph Coloring Greedy - second version]()
+  * [Graph Coloring Greedy]()
+  * [Graph class template]()
+  * [Tree Centers]()
 
+* Linear Algebra
+  * [Determinant - using Gauss and Crout algorithm]()
+  * [Determinant - second version]()
+  * [Determinant - third version]()
+  * [Gaussian elimination algorithm]()
+  * [Matrix]()
 
-* Linear_Algebra
-* Lowest_Common_Ancestor
+* Lowest Common Ancestor
+  * LCA
+  * LCA: Sparse Table
+  
 * Matching
+  * Max Matching - second version
+  * MaxMatchingEdmonds.java
+  * MaxMatchingHopcroftKarp.java
+  * Max Matching - Kuhn's algorithm
+  * MaxMatchingRandomized.java
+
 * Miscellaneous
 * Number_Theory
 * Numeric_Methods
