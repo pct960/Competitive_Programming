@@ -33,30 +33,30 @@ and the categorisation is based on [Sibyter](https://play.google.com/store/apps/
   * Binary Search Tree
   * Hashmap with chains
   * Cover Tree
-  * CoverTreeTest.java
-  * DisjointSets.java
-  * DisjointSetsRank.java
-  * DoublyLinkedList.java
-  * FenwickTree2D.java
-  * FenwickTree3D.java
-  * FenwickTreeExtended.java
-  * FenwickTree.java
-  * HeavyLight2.java
-  * HeavyLight2NoRecursion.java
-  * HeavyLight.java
-  * KdTreePointQuery.java
-  * KdTreeRectQuery.java
-  * LcaSchieberVishkin.java
+  * Cover Tree Test
+  * Disjoint Set data structure
+  * Disjoint Set data structure with ranks
+  * Doubly Linked List
+  * Fenwick Tree 2D for sum
+  * Fenwick Tree 3D for sum
+  * Fenwick Tree for sum with extended operations
+  * Fenwick Tree for sum and maximum
+  * Heavy Light improved version
+  * Heavy Light decomposition without recursion
+  * Heavy Light tree decomposition for vertices or edges
+  * KdTree for nearest point query
+  * KdTree for rectangular query
+  * Lowest Common Ancestor - Schieber and Vishkin algorithm
   * LinkCutTreeConnectivity.java
-  * LinkCutTree.java
-  * LinkCutTreeLca.java
-  * MergeableHeap.java
-  * MetricTree.java
-  * MosAlgorithm2.java
-  * MosAlgorithm.java
-  * PersistentTree.java
-  * QuadTree.java
-  * QueueMin.java
+  * Link Cut Tree - dynamic tree with path queries
+  * Link Cut Tree - Dynamic tree LCA
+  * Mergeable Heap
+  * Metric Tree for nearest point query
+  * Mos Algorithm second version
+  * Mo's Algorithm for square root decomposition
+  * Persistent Tree
+  * Quad Tree for rectangular queries on NxM board
+  * Queue with minimum query in O(1)
   * RmqSparseTable.java
   * RTree.java
   * SegmentTree2D.java
