@@ -191,9 +191,53 @@ and the categorisation is based on [Sibyter](https://play.google.com/store/apps/
   * [Primes and Divisors]() - Prime numbers, Sieve of Erasthosenes, Euler's totient function
 
 * Numeric_Methods
+  * [FFT]() - Fast Fourier's Transform
+  * [IFFT]() - Inverse Fast Fourier's Transform
+  * [Simpson's Integration]()
 
 * Optimisation
+  * [Genetic Algorithm for TSP]()
+  * [Hill Climbing]()
+  * [Lin Kernighan Heuristic for TSP - second version]()
+  * [Lin Kernighan Heuristic for TSP]()
+  * [Meet In The Middle]()
+  * [Simplex]()
+  * [Simulated Annealing]()
+
 * Shortest_Paths
+  * [Bellman Ford algorithm]() - second version
+  * [Bellman Ford algorithm]()
+  * [Dijkstra Custom Heap]() - Shortest paths. Dijkstra's algorithm with custom binary heap
+  * [Dijkstra Heap]() - Shortest paths. Dijkstra's algorithm
+  * [Dijkstra]()
+  * [Dijkstra Segment Tree]()
+  * [Floyd's and Warshall's algorithm]()
+
 * Sorting
+  * [NthElement]() - Kth order statistic 
+  * [Array Partition]()
+  * [Quicksort]()
+  * [Sort]() - Quicksort, mergesort, heapsort, bubblesort, selection sort, insert sort, count sort and radix sort
+
 * Spanning_Tree
+  * [Prim Heap]()
+  * [Prim's algorithm]()
+  * [Steiner Tree]()
+
 * Strings
+  * [Aho-Corasick Algorithm]()
+  * [Aho-Corasick Algorithm]() - simple version
+  * [Calc]() - Expression parser
+  * [Expression Parser]() - Recursive Descent
+  * [Expression Parser]() - Shunting-yard algorithm
+  * [Hashing on Strings]()
+  * [Knuth–Morris–Pratt algorithm]()
+  * [Lyndon Decomposition]() - Minimal cyclic shift
+  * [Recursive Descent Parser]()
+  * [Suffix Array - improved version]()
+  * [Suffix Array]()
+  * [Suffix Automaton]()
+  * [Suffix Tree]()
+  * [Trie]()
+  * [ZFunction]()
+
