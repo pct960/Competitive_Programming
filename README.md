@@ -74,126 +74,126 @@ and the categorisation is based on [Sibyter](https://play.google.com/store/apps/
   * [Treap with implicit keys and interval modification](https://github.com/pct960/Competitive_Programming/blob/master/src/Data_Structures/TreapImplicitKey.java)
   
 * Depth_First Search
-  * [Biconnectivity]() - Bridges, cut points, edge biconnected components, condenstaion tree
-  * [Non recursive DFS]()
-  * [Eulerian Cycle]()
-  * [Strongly Connected Components - Kosaraju's Algorithm]()
-  * [Strongly Connected Components - Tarjan's Algorithm]()
-  * [Tarjan's Algorithm for SCC without recursion]()
-  * [Test for all SCC algorithms]()
-  * [SCC - Transitive closure algorithm]()
-  * [Topological sorting]()
+  * [Biconnectivity](https://github.com/pct960/Competitive_Programming/blob/master/src/Depth_First_Search/Biconnectivity.java) - Bridges, cut points, edge biconnected components, condenstaion tree
+  * [Non recursive DFS](https://github.com/pct960/Competitive_Programming/blob/master/src/Depth_First_Search/DfsNoRecursion.java)
+  * [Eulerian Cycle](https://github.com/pct960/Competitive_Programming/blob/master/src/Depth_First_Search/EulerCycle.java)
+  * [Strongly Connected Components - Kosaraju's Algorithm](https://github.com/pct960/Competitive_Programming/blob/master/src/Depth_First_Search/SCCKosaraju.java)
+  * [Strongly Connected Components - Tarjan's Algorithm](https://github.com/pct960/Competitive_Programming/blob/master/src/Depth_First_Search/SCCTarjan.java)
+  * [Tarjan's Algorithm for SCC without recursion](https://github.com/pct960/Competitive_Programming/blob/master/src/Depth_First_Search/SCCTarjanNoRecursion.java)
+  * [Test for all SCC algorithms](https://github.com/pct960/Competitive_Programming/blob/master/src/Depth_First_Search/SCCTest.java)
+  * [SCC - Transitive closure algorithm](https://github.com/pct960/Competitive_Programming/blob/master/src/Depth_First_Search/SCCTransitiveClosure.java)
+  * [Topological sorting](https://github.com/pct960/Competitive_Programming/blob/master/src/Depth_First_Search/TopologicalSort.java)
 
 * Dynamic Programming
-  * [Convex Hull Optimization]()
-  * [Domino Fill]()
-  * [Linear Equality - number of solutions]()
-  * [Longest Increasing Subsequence]()
-  * [Optimal matrix chain multiplication]()
-  * [Longest Palindromic Subsequence]()
-  * [Shortest Hamiltonian Cycle - second version]()
-  * [Shortest Hamiltonian Cycle ]()
-  * [Shortest Hamiltonian Path]()
-  * [String Distances]()
+  * [Convex Hull Optimization](https://github.com/pct960/Competitive_Programming/blob/master/src/Dynamic_Programming/ConvexHullOptimization.java)
+  * [Domino Fill](https://github.com/pct960/Competitive_Programming/blob/master/src/Dynamic_Programming/DominoFill.java)
+  * [Linear Equality - number of solutions](https://github.com/pct960/Competitive_Programming/blob/master/src/Dynamic_Programming/LinearEquality.java)
+  * [Longest Increasing Subsequence](https://github.com/pct960/Competitive_Programming/blob/master/src/Dynamic_Programming/Lis.java)
+  * [Optimal matrix chain multiplication](https://github.com/pct960/Competitive_Programming/blob/master/src/Dynamic_Programming/MatrixChainMultiply.java)
+  * [Longest Palindromic Subsequence](https://github.com/pct960/Competitive_Programming/blob/master/src/Dynamic_Programming/MaxPalindrome.java)
+  * [Shortest Hamiltonian Cycle - second version](https://github.com/pct960/Competitive_Programming/blob/master/src/Dynamic_Programming/ShortestHamiltonianCycle2.java)
+  * [Shortest Hamiltonian Cycle](https://github.com/pct960/Competitive_Programming/blob/master/src/Dynamic_Programming/ShortestHamiltonianCycle.java)
+  * [Shortest Hamiltonian Path](https://github.com/pct960/Competitive_Programming/blob/master/src/Dynamic_Programming/ShortestHamiltonianPath.java)
+  * [String Distances](https://github.com/pct960/Competitive_Programming/blob/master/src/Dynamic_Programming/StringDistances.java)
   
 * Elementary Algorithms
-  * [Binary Exponentiation]()
-  * [Binary Search ]()
-  * [Ternary Search ]()
+  * [Binary Exponentiation](https://github.com/pct960/Competitive_Programming/blob/master/src/Elementary_Algorithms/BinaryExponentiation.java)
+  * [Binary Search](https://github.com/pct960/Competitive_Programming/blob/master/src/Elementary_Algorithms/BinarySearch.java)
+  * [Ternary Search ](https://github.com/pct960/Competitive_Programming/blob/master/src/Elementary_Algorithms/TernarySearch.java)
 
 * Flows
-  * [Hungarian algorithm for assignment problem]()
-  * [Max Flow - Dinic's algorithm]()
-  * [Max Flow - Edmonds Karp algorithm]()
-  * [Max Flow - Ford Fulkerson's algorithm]()
-  * [Max Flow - Simplified Ford Fulkerson's]()
-  * [Max Flow - Push relabel algorithm]()
-  * [MaxFlowPreflowN4]()
-  * [MaxFlowRetreat]()
-  * [Max Flow with min cost - Bellman Ford's algorithm]()
-  * [Max Flow with min cost - with potential for dense graphs]()
-  * [Min Cost Flow]()
-  * [Min Cost Flow Simple]()
+  * [Hungarian algorithm for assignment problem](https://github.com/pct960/Competitive_Programming/blob/master/src/Flows/Hungarian.java)
+  * [Max Flow - Dinic's algorithm](https://github.com/pct960/Competitive_Programming/blob/master/src/Flows/MaxFlowDinic.java)
+  * [Max Flow - Edmonds Karp algorithm](https://github.com/pct960/Competitive_Programming/blob/master/src/Flows/MaxFlowEdmondsKarp.java)
+  * [Max Flow - Ford Fulkerson's algorithm](https://github.com/pct960/Competitive_Programming/blob/master/src/Flows/MaxFlowFordFulkerson.java)
+  * [Max Flow - Simplified Ford Fulkerson's](https://github.com/pct960/Competitive_Programming/blob/master/src/Flows/MaxFlowFordFulkersonSimple.java)
+  * [Max Flow - Push relabel algorithm](https://github.com/pct960/Competitive_Programming/blob/master/src/Flows/MaxFlowPreflowN3.java)
+  * [MaxFlowPreflowN4](https://github.com/pct960/Competitive_Programming/blob/master/src/Flows/MaxFlowPreflowN4.java)
+  * [MaxFlowRetreat](https://github.com/pct960/Competitive_Programming/blob/master/src/Flows/MaxFlowRetreat.java)
+  * [Max Flow with min cost - Bellman Ford's algorithm](https://github.com/pct960/Competitive_Programming/blob/master/src/Flows/MinCostFlowBF.java)
+  * [Max Flow with min cost - with potential for dense graphs](https://github.com/pct960/Competitive_Programming/blob/master/src/Flows/MinCostFlowDense.java)
+  * [Min Cost Flow](https://github.com/pct960/Competitive_Programming/blob/master/src/Flows/MinCostFlow.java)
+  * [Min Cost Flow Simple](https://github.com/pct960/Competitive_Programming/blob/master/src/Flows/MinCostFlowSimple.java)
 
 * Geometry
-  * [General]() - Angle,area,orientation,sort,rotation,perpendicular
-  * [Circle Operations]()
-  * [Closest Points]() - in a planar point set using divide and conquer
-  * [Complex]()
-  * [Convex Cut]()
-  * [Convex Hull]()
-  * [Delaunay triangulation]()
-  * [Delaunay triangulation and Voronoi diagram]()
-  * [Connected graph using Force-Based method]()
-  * [Line Geometry]()
-  * [Point Classification]()
-  * [Point In Polygon]()
-  * [Point Location]()
-  * [Point Location Offline]()
-  * [Point Location Rtree]()
-  * [Point To Segment Distance]()
-  * [Polygon and Circle Intersection area]()
-  * [Polygons Intersection area]()
-  * [Random Polygon using 2-opt]()
-  * [Ray Sphere Intersections]()
-  * [Rectangle Union area using sweep line]()
-  * [Segments and Line Intersection]()
-  * [Finding a pair of intersected segments - second version]()
-  * [Finding a pair of intersected segments]()
-  * [Segments Union length]()
-  * [Vector2d class template]()
+  * [General](https://github.com/pct960/Competitive_Programming/blob/master/src/Geometry/AngleAreaOrientationSortRotationPerpendicular.java) - Angle,area,orientation,sort,rotation,perpendicular
+  * [Circle Operations](https://github.com/pct960/Competitive_Programming/blob/master/src/Geometry/CircleOperations.java)
+  * [Closest Points](https://github.com/pct960/Competitive_Programming/blob/master/src/Geometry/Closest2Points.java) - in a planar point set using divide and conquer
+  * [Complex](https://github.com/pct960/Competitive_Programming/blob/master/src/Geometry/Complex.java)
+  * [Convex Cut](https://github.com/pct960/Competitive_Programming/blob/master/src/Geometry/ConvexCut.java)
+  * [Convex Hull](https://github.com/pct960/Competitive_Programming/blob/master/src/Geometry/ConvexHull.java)
+  * [Delaunay triangulation](https://github.com/pct960/Competitive_Programming/blob/master/src/Geometry/Delaunay.java)
+  * [Delaunay triangulation and Voronoi diagram](https://github.com/pct960/Competitive_Programming/blob/master/src/Geometry/DelaunayVoronoi.java)
+  * [Connected graph using Force-Based method](https://github.com/pct960/Competitive_Programming/blob/master/src/Geometry/ForceBasedGraphDrawer.java)
+  * [Line Geometry](https://github.com/pct960/Competitive_Programming/blob/master/src/Geometry/LineGeometry.java)
+  * [Point Classification](https://github.com/pct960/Competitive_Programming/blob/master/src/Geometry/PointClassification.java)
+  * [Point In Polygon](https://github.com/pct960/Competitive_Programming/blob/master/src/Geometry/PointInPolygon.java)
+  * [Point Location](https://github.com/pct960/Competitive_Programming/blob/master/src/Geometry/PointLocation.java)
+  * [Point Location Offline](https://github.com/pct960/Competitive_Programming/blob/master/src/Geometry/PointLocationOffline.java)
+  * [Point Location Rtree](https://github.com/pct960/Competitive_Programming/blob/master/src/Geometry/PointLocationRtree.java)
+  * [Point To Segment Distance](https://github.com/pct960/Competitive_Programming/blob/master/src/Geometry/PointToSegmentDistance.java)
+  * [Polygon and Circle Intersection area](https://github.com/pct960/Competitive_Programming/blob/master/src/Geometry/PolygonCircleIntersection.java)
+  * [Polygons Intersection area](https://github.com/pct960/Competitive_Programming/blob/master/src/Geometry/PolygonsIntersection.java)
+  * [Random Polygon using 2-opt](https://github.com/pct960/Competitive_Programming/blob/master/src/Geometry/RandomPolygon.java)
+  * [Ray Sphere Intersections](https://github.com/pct960/Competitive_Programming/blob/master/src/Geometry/RayIntersections.java)
+  * [Rectangle Union area using sweep line](https://github.com/pct960/Competitive_Programming/blob/master/src/Geometry/RectangleUnion.java)
+  * [Segments and Line Intersection](https://github.com/pct960/Competitive_Programming/blob/master/src/Geometry/SegmentsIntersection.java)
+  * [Finding a pair of intersected segments - second version](https://github.com/pct960/Competitive_Programming/blob/master/src/Geometry/SegmentsIntersectionScanline2.java)
+  * [Finding a pair of intersected segments](https://github.com/pct960/Competitive_Programming/blob/master/src/Geometry/SegmentsIntersectionScanline.java)
+  * [Segments Union length](https://github.com/pct960/Competitive_Programming/blob/master/src/Geometry/SegmentsUnion.java)
+  * [Vector2d class template](https://github.com/pct960/Competitive_Programming/blob/master/src/Geometry/Vector2d.java)
   
 * Graphs
-  * [Centroid Decomposition]()
-  * [Graph Coloring Greedy - second version]()
-  * [Graph Coloring Greedy]()
-  * [Graph class template]()
-  * [Tree Centers]()
+  * [Centroid Decomposition](https://github.com/pct960/Competitive_Programming/blob/master/src/Graphs/CentroidDecomposition.java)
+  * [Graph Coloring Greedy - second version](https://github.com/pct960/Competitive_Programming/blob/master/src/Graphs/GraphColoringGreedy2.java)
+  * [Graph Coloring Greedy](https://github.com/pct960/Competitive_Programming/blob/master/src/Graphs/GraphColoringGreedy.java)
+  * [Graph class template](https://github.com/pct960/Competitive_Programming/blob/master/src/Graphs/Graph.java)
+  * [Tree Centers](https://github.com/pct960/Competitive_Programming/blob/master/src/Graphs/TreeCenters.java)
 
 * Linear Algebra
-  * [Determinant - using Gauss and Crout algorithm]()
-  * [Determinant - second version]()
-  * [Determinant - third version]()
-  * [Gaussian elimination algorithm]()
-  * [Matrix]()
+  * [Determinant - using Gauss and Crout algorithm](https://github.com/pct960/Competitive_Programming/blob/master/src/Graphs/TreeCenters.java)
+  * [Determinant - second version](https://github.com/pct960/Competitive_Programming/blob/master/src/Linear_Algebra/Determinant1.java)
+  * [Determinant - third version](https://github.com/pct960/Competitive_Programming/blob/master/src/Linear_Algebra/Determinant2.java)
+  * [Gaussian elimination algorithm](https://github.com/pct960/Competitive_Programming/blob/master/src/Linear_Algebra/Gauss.java)
+  * [Matrix](https://github.com/pct960/Competitive_Programming/blob/master/src/Linear_Algebra/Matrix.java)
 
 * Lowest Common Ancestor
-  * [LCA]()
-  * LCA: Sparse Table
+  * [LCA](https://github.com/pct960/Competitive_Programming/blob/master/src/Lowest_Common_Ancestor/Lca.java)
+  * [LCA](https://github.com/pct960/Competitive_Programming/blob/master/src/Lowest_Common_Ancestor/LcaSparseTable.java): Sparse Table
   
 * Matching
-  * [Max Matching - second version]()
-  * [Max Matching for general graphs - Edmond's Blossom algorithm]()
-  * [Max Matching for bipartite graphs - Hopcroft-Karp algorithm]()
-  * [Max Matching - Kuhn's algorithm]()
-  * [Max Matching for bipartite graphs - randomised algorithm]()
+  * [Max Matching - second version](https://github.com/pct960/Competitive_Programming/blob/master/src/Matching/MaxMatching2.java)
+  * [Max Matching for general graphs - Edmond's Blossom algorithm](https://github.com/pct960/Competitive_Programming/blob/master/src/Matching/MaxMatchingEdmonds.java)
+  * [Max Matching for bipartite graphs - Hopcroft-Karp algorithm](https://github.com/pct960/Competitive_Programming/blob/master/src/Matching/MaxMatchingHopcroftKarp.java)
+  * [Max Matching - Kuhn's algorithm](https://github.com/pct960/Competitive_Programming/blob/master/src/Matching/MaxMatching.java)
+  * [Max Matching for bipartite graphs - randomised algorithm](https://github.com/pct960/Competitive_Programming/blob/master/src/Matching/MaxMatchingRandomized.java)
 
 * Miscellaneous
-  * [All Nearest Smaller Values]() - for each position in a sequence of numbers, search among the previous positions for the     last position that contains a smaller value. 
-  * [Array Rotation]()
-  * [Contraction Hierarchies]()
-  * [Cycle Detection]() - Floyd's and Brent's algorithm
-  * [Inversions]() - number of inversions
-  * [Karatsuba Multiply]()
-  * [Knight Distance]() - minimum number of moves a knight needs to reach from one square to another on an empty board
-  * [Longest Increasing Subsequence]()
-  * [Maximum Zero Submatrix]()
-  * [Monotonic Approximation]()
-  * [Generic Pair class template]()
-  * [Pair Long class template]()
-  * [Rational numbers class]()
-  * [Two satisfiability]()
-  * [JFrame visualiser view]()
+  * [All Nearest Smaller Values](https://github.com/pct960/Competitive_Programming/blob/master/src/Miscellaneous/AllNearestSmallerValues.java) - for each position in a sequence of numbers, search among the previous positions for the     last position that contains a smaller value. 
+  * [Array Rotation](https://github.com/pct960/Competitive_Programming/blob/master/src/Miscellaneous/ArrayRotate.java)
+  * [Contraction Hierarchies](https://github.com/pct960/Competitive_Programming/blob/master/src/Miscellaneous/ContractionHierarchies.java)
+  * [Cycle Detection](https://github.com/pct960/Competitive_Programming/blob/master/src/Miscellaneous/CycleDetection.java) - Floyd's and Brent's algorithm
+  * [Inversions](https://github.com/pct960/Competitive_Programming/blob/master/src/Miscellaneous/Inversions.java) - number of inversions
+  * [Karatsuba Multiply](https://github.com/pct960/Competitive_Programming/blob/master/src/Miscellaneous/KaratsubaMultiply.java)
+  * [Knight Distance](https://github.com/pct960/Competitive_Programming/blob/master/src/Miscellaneous/KnightDistance.java) - minimum number of moves a knight needs to reach from one square to another on an empty board
+  * [Longest Increasing Subsequence](https://github.com/pct960/Competitive_Programming/blob/master/src/Miscellaneous/Lis2.java)
+  * [Maximum Zero Submatrix](https://github.com/pct960/Competitive_Programming/blob/master/src/Miscellaneous/MaximumZeroSubmatrix.java)
+  * [Monotonic Approximation](https://github.com/pct960/Competitive_Programming/blob/master/src/Miscellaneous/MonotonicApproximation.java)
+  * [Generic Pair class template](https://github.com/pct960/Competitive_Programming/blob/master/src/Miscellaneous/Pair.java)
+  * [Pair Long class template](https://github.com/pct960/Competitive_Programming/blob/master/src/Miscellaneous/PairLong.java)
+  * [Rational numbers class](https://github.com/pct960/Competitive_Programming/blob/master/src/Miscellaneous/Rational.java)
+  * [Two satisfiability](https://github.com/pct960/Competitive_Programming/blob/master/src/Miscellaneous/Sat2.java)
+  * [JFrame visualiser view](https://github.com/pct960/Competitive_Programming/blob/master/src/Miscellaneous/Vis.java)
 
 * Number_Theory
-  * [Euclid]() - Euclidean algorithm,GCD,LCM,mod inverse,Chinese remainder theorem
-  * [Factorisation]() - Fermat's and Pollard's methods
-  * [Primes and Divisors]() - Prime numbers, Sieve of Erasthosenes, Euler's totient function
+  * [Euclid](https://github.com/pct960/Competitive_Programming/blob/master/src/Number_Theory/Euclid.java) - Euclidean algorithm,GCD,LCM,mod inverse,Chinese remainder theorem
+  * [Factorisation](https://github.com/pct960/Competitive_Programming/blob/master/src/Number_Theory/Factorization.java) - Fermat's and Pollard's methods
+  * [Primes and Divisors](https://github.com/pct960/Competitive_Programming/blob/master/src/Number_Theory/PrimesAndDivisors.java) - Prime numbers, Sieve of Erasthosenes, Euler's totient function
 
 * Numeric_Methods
-  * [FFT]() - Fast Fourier's Transform
-  * [IFFT]() - Inverse Fast Fourier's Transform
-  * [Simpson's Integration]()
+  * [FFT](https://github.com/pct960/Competitive_Programming/blob/master/src/Numeric_Methods/FFT.java) - Fast Fourier's Transform
+  * [IFFT](https://github.com/pct960/Competitive_Programming/blob/master/src/Numeric_Methods/IFFT.java) - Inverse Fast Fourier's Transform
+  * [Simpson's Integration](https://github.com/pct960/Competitive_Programming/blob/master/src/Numeric_Methods/SimpsonIntegration.java)
 
 * Optimisation
   * [Genetic Algorithm for TSP]()
