@@ -196,48 +196,48 @@ and the categorisation is based on [Sibyter](https://play.google.com/store/apps/
   * [Simpson's Integration](https://github.com/pct960/Competitive_Programming/blob/master/src/Numeric_Methods/SimpsonIntegration.java)
 
 * Optimisation
-  * [Genetic Algorithm for TSP]()
-  * [Hill Climbing]()
-  * [Lin Kernighan Heuristic for TSP - second version]()
-  * [Lin Kernighan Heuristic for TSP]()
-  * [Meet In The Middle]()
-  * [Simplex]()
-  * [Simulated Annealing]()
+  * [Genetic Algorithm for TSP](https://github.com/pct960/Competitive_Programming/blob/master/src/Optimisation/GeneticAlgorithm.java)
+  * [Hill Climbing](https://github.com/pct960/Competitive_Programming/blob/master/src/Optimisation/HillClimbing.java)
+  * [Lin Kernighan Heuristic for TSP - second version](https://github.com/pct960/Competitive_Programming/blob/master/src/Optimisation/LinKernighan2.java)
+  * [Lin Kernighan Heuristic for TSP](https://github.com/pct960/Competitive_Programming/blob/master/src/Optimisation/LinKernighan.java)
+  * [Meet In The Middle](https://github.com/pct960/Competitive_Programming/blob/master/src/Optimisation/MeetInTheMiddle.java)
+  * [Simplex](https://github.com/pct960/Competitive_Programming/blob/master/src/Optimisation/Simplex.java)
+  * [Simulated Annealing](https://github.com/pct960/Competitive_Programming/blob/master/src/Optimisation/SimulatedAnnealing.java)
 
 * Shortest_Paths
-  * [Bellman Ford algorithm]() - second version
-  * [Bellman Ford algorithm]()
-  * [Dijkstra Custom Heap]() - Shortest paths. Dijkstra's algorithm with custom binary heap
-  * [Dijkstra Heap]() - Shortest paths. Dijkstra's algorithm
-  * [Dijkstra]()
-  * [Dijkstra Segment Tree]()
-  * [Floyd's and Warshall's algorithm]()
+  * [Bellman Ford algorithm](https://github.com/pct960/Competitive_Programming/blob/master/src/Shortest_Paths/BellmanFord2.java) - second version
+  * [Bellman Ford algorithm](https://github.com/pct960/Competitive_Programming/blob/master/src/Shortest_Paths/BellmanFord.java)
+  * [Dijkstra Custom Heap](https://github.com/pct960/Competitive_Programming/blob/master/src/Shortest_Paths/DijkstraCustomHeap.java) - Shortest paths. Dijkstra's algorithm with custom binary heap
+  * [Dijkstra Heap](https://github.com/pct960/Competitive_Programming/blob/master/src/Shortest_Paths/DijkstraHeap.java) - Shortest paths. Dijkstra's algorithm
+  * [Dijkstra](https://github.com/pct960/Competitive_Programming/blob/master/src/Shortest_Paths/Dijkstra.java)
+  * [Dijkstra Segment Tree](https://github.com/pct960/Competitive_Programming/blob/master/src/Shortest_Paths/DijkstraSegmentTree.java)
+  * [Floyd's and Warshall's algorithm](https://github.com/pct960/Competitive_Programming/blob/master/src/Shortest_Paths/FloydWarshall.java)
 
 * Sorting
-  * [NthElement]() - Kth order statistic 
-  * [Array Partition]()
-  * [Quicksort]()
-  * [Sort]() - Quicksort, mergesort, heapsort, bubblesort, selection sort, insert sort, count sort and radix sort
+  * [NthElement](https://github.com/pct960/Competitive_Programming/blob/master/src/Sorting/NthElement.java) - Kth order statistic 
+  * [Array Partition](https://github.com/pct960/Competitive_Programming/blob/master/src/Sorting/Partition.java)
+  * [Quicksort](https://github.com/pct960/Competitive_Programming/blob/master/src/Sorting/Quicksort.java)
+  * [Sort](https://github.com/pct960/Competitive_Programming/blob/master/src/Sorting/Sort.java) - Quicksort, mergesort, heapsort, bubblesort, selection sort, insert sort, count sort and radix sort
 
 * Spanning_Tree
-  * [Prim Heap]()
-  * [Prim's algorithm]()
-  * [Steiner Tree]()
+  * [Prim Heap](https://github.com/pct960/Competitive_Programming/blob/master/src/Spanning_Tree/PrimHeap.java)
+  * [Prim's algorithm](https://github.com/pct960/Competitive_Programming/blob/master/src/Spanning_Tree/Prim.java)
+  * [Steiner Tree](https://github.com/pct960/Competitive_Programming/blob/master/src/Spanning_Tree/SteinerTree.java)
 
 * Strings
-  * [Aho-Corasick Algorithm]()
-  * [Aho-Corasick Algorithm]() - simple version
-  * [Calc]() - Expression parser
-  * [Expression Parser]() - Recursive Descent
-  * [Expression Parser]() - Shunting-yard algorithm
-  * [Hashing on Strings]()
-  * [Knuth–Morris–Pratt algorithm]()
-  * [Lyndon Decomposition]() - Minimal cyclic shift
-  * [Recursive Descent Parser]()
-  * [Suffix Array - improved version]()
-  * [Suffix Array]()
-  * [Suffix Automaton]()
-  * [Suffix Tree]()
-  * [Trie]()
-  * [ZFunction]()
+  * [Aho-Corasick Algorithm](https://github.com/pct960/Competitive_Programming/blob/master/src/Strings/AhoCorasick.java)
+  * [Aho-Corasick Algorithm](https://github.com/pct960/Competitive_Programming/blob/master/src/Strings/AhoCorasickSimple.java) - simple version
+  * [Calc](https://github.com/pct960/Competitive_Programming/blob/master/src/Strings/Calc2.java) - Expression parser
+  * [Expression Parser](https://github.com/pct960/Competitive_Programming/blob/master/src/Strings/ExpressionParserRecursiveDescent.java) - Recursive Descent
+  * [Expression Parser](https://github.com/pct960/Competitive_Programming/blob/master/src/Strings/ExpressionParserShuntingYard.java) - Shunting-yard algorithm
+  * [Hashing on Strings](https://github.com/pct960/Competitive_Programming/blob/master/src/Strings/Hashing.java)
+  * [Knuth–Morris–Pratt algorithm](https://github.com/pct960/Competitive_Programming/blob/master/src/Strings/Kmp.java)
+  * [Lyndon Decomposition](https://github.com/pct960/Competitive_Programming/blob/master/src/Strings/LyndonDecomposition.java) - Minimal cyclic shift
+  * [Recursive Descent Parser](https://github.com/pct960/Competitive_Programming/blob/master/src/Strings/RecursiveDescentParser.java)
+  * [Suffix Array - improved version](https://github.com/pct960/Competitive_Programming/blob/master/src/Strings/SuffixArray2.java)
+  * [Suffix Array](https://github.com/pct960/Competitive_Programming/blob/master/src/Strings/SuffixArray.java)
+  * [Suffix Automaton](https://github.com/pct960/Competitive_Programming/blob/master/src/Strings/SuffixAutomaton.java)
+  * [Suffix Tree](https://github.com/pct960/Competitive_Programming/blob/master/src/Strings/SuffixTree.java)
+  * [Trie](https://github.com/pct960/Competitive_Programming/blob/master/src/Strings/Trie.java)
+  * [ZFunction](https://github.com/pct960/Competitive_Programming/blob/master/src/Strings/ZFunction.java)
 
