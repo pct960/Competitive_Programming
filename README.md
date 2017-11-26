@@ -3,6 +3,14 @@
 A curated collection of algorithms and data structures implemented in Java. The code is from [indy256](https://github.com/indy256/codelibrary/tree/master/java/src)
 and the categorisation is based on [Sibyter](https://play.google.com/store/apps/details?id=com.izaron.pepperpied)
 
+## Getting Started
+
+Clone the repository
+    
+    git clone https://github.com/pct960/Competitive_Programming.git
+Open the project using IntelliJ and you're good to go! 
+
+
 ## Contents
 
 * [Backtracking](https://github.com/pct960/Competitive_Programming/tree/master/src/Backtracking)
