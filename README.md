@@ -5,13 +5,13 @@ and the categorisation is based on [Sibyter](https://play.google.com/store/apps/
 
 ## Contents
 
-* Backtracking
+* [Backtracking](https://github.com/pct960/Competitive_Programming/tree/master/src/Backtracking)
   * [Bron–Kerbosch Algorithm](https://github.com/pct960/Competitive_Programming/blob/master/src/Backtracking/BronKerbosh.java)
   * [Graph Colouring](https://github.com/pct960/Competitive_Programming/blob/master/src/Backtracking/Coloring.java)
   * [Maximum Weighted Independent Set - Bitset algorithm](https://github.com/pct960/Competitive_Programming/blob/master/src/Backtracking/Mis.java)
   * [Maximum Weighted Independent Set - Alternate implementation](https://github.com/pct960/Competitive_Programming/blob/master/src/Backtracking/MisWeighted.java)
   
-* Combinatorics
+* [Combinatorics](https://github.com/pct960/Competitive_Programming/tree/master/src/Combinatorics)
   * [Enumeration of arrangements](https://github.com/pct960/Competitive_Programming/blob/master/src/Combinatorics/Arrangements.java)
   * [Binomial coefficients and factorials](https://github.com/pct960/Competitive_Programming/blob/master/src/Combinatorics/BinomialCoefficients.java)
   * [Enumeration of combinations](https://github.com/pct960/Competitive_Programming/blob/master/src/Combinatorics/Combinations.java)
@@ -22,12 +22,12 @@ and the categorisation is based on [Sibyter](https://play.google.com/store/apps/
   * [Random permutations arrangements and shuffling](https://github.com/pct960/Competitive_Programming/blob/master/src/Combinatorics/RandomPermutation.java)
   * [Enumeration of set partitions](https://github.com/pct960/Competitive_Programming/blob/master/src/Combinatorics/SetPartitions.java)
   
-* Data Compression
+* [Data Compression](https://github.com/pct960/Competitive_Programming/tree/master/src/Data_Compression)
   * [Arithmetic coding](https://github.com/pct960/Competitive_Programming/blob/master/src/Data_Compression/ArithmeticCoding.java)
   * [Burrows-Wheeler Transform](https://github.com/pct960/Competitive_Programming/blob/master/src/Data_Compression/Bwt.java)
   * [Lempel–Ziv–Welch Algorithm](https://github.com/pct960/Competitive_Programming/blob/master/src/Data_Compression/Lzw.java)
   
-* Data Structures
+* [Data Structures](https://github.com/pct960/Competitive_Programming/tree/master/src/Data_Structures)
   * [Binary heap with increased priority operation](https://github.com/pct960/Competitive_Programming/blob/master/src/Data_Structures/BinaryHeapExtended.java)
   * [Binary heap](https://github.com/pct960/Competitive_Programming/blob/master/src/Data_Structures/BinaryHeap.java)
   * [Binary Search Tree](https://github.com/pct960/Competitive_Programming/blob/master/src/Data_Structures/BinarySearchTree.java)
@@ -73,7 +73,7 @@ and the categorisation is based on [Sibyter](https://play.google.com/store/apps/
   * [Treap with implicit keys and interval modification - second version](https://github.com/pct960/Competitive_Programming/blob/master/src/Data_Structures/TreapImplicitKey2.java)
   * [Treap with implicit keys and interval modification](https://github.com/pct960/Competitive_Programming/blob/master/src/Data_Structures/TreapImplicitKey.java)
   
-* Depth_First Search
+* [Depth_First Search](https://github.com/pct960/Competitive_Programming/tree/master/src/Depth_First_Search)
   * [Biconnectivity](https://github.com/pct960/Competitive_Programming/blob/master/src/Depth_First_Search/Biconnectivity.java) - Bridges, cut points, edge biconnected components, condenstaion tree
   * [Non recursive DFS](https://github.com/pct960/Competitive_Programming/blob/master/src/Depth_First_Search/DfsNoRecursion.java)
   * [Eulerian Cycle](https://github.com/pct960/Competitive_Programming/blob/master/src/Depth_First_Search/EulerCycle.java)
@@ -84,7 +84,7 @@ and the categorisation is based on [Sibyter](https://play.google.com/store/apps/
   * [SCC - Transitive closure algorithm](https://github.com/pct960/Competitive_Programming/blob/master/src/Depth_First_Search/SCCTransitiveClosure.java)
   * [Topological sorting](https://github.com/pct960/Competitive_Programming/blob/master/src/Depth_First_Search/TopologicalSort.java)
 
-* Dynamic Programming
+* [Dynamic Programming](https://github.com/pct960/Competitive_Programming/tree/master/src/Dynamic_Programming)
   * [Convex Hull Optimization](https://github.com/pct960/Competitive_Programming/blob/master/src/Dynamic_Programming/ConvexHullOptimization.java)
   * [Domino Fill](https://github.com/pct960/Competitive_Programming/blob/master/src/Dynamic_Programming/DominoFill.java)
   * [Linear Equality - number of solutions](https://github.com/pct960/Competitive_Programming/blob/master/src/Dynamic_Programming/LinearEquality.java)
@@ -96,12 +96,12 @@ and the categorisation is based on [Sibyter](https://play.google.com/store/apps/
   * [Shortest Hamiltonian Path](https://github.com/pct960/Competitive_Programming/blob/master/src/Dynamic_Programming/ShortestHamiltonianPath.java)
   * [String Distances](https://github.com/pct960/Competitive_Programming/blob/master/src/Dynamic_Programming/StringDistances.java)
   
-* Elementary Algorithms
+* [Elementary Algorithms](https://github.com/pct960/Competitive_Programming/tree/master/src/Elementary_Algorithms)
   * [Binary Exponentiation](https://github.com/pct960/Competitive_Programming/blob/master/src/Elementary_Algorithms/BinaryExponentiation.java)
   * [Binary Search](https://github.com/pct960/Competitive_Programming/blob/master/src/Elementary_Algorithms/BinarySearch.java)
   * [Ternary Search ](https://github.com/pct960/Competitive_Programming/blob/master/src/Elementary_Algorithms/TernarySearch.java)
 
-* Flows
+* [Flows](https://github.com/pct960/Competitive_Programming/tree/master/src/Flows)
   * [Hungarian algorithm for assignment problem](https://github.com/pct960/Competitive_Programming/blob/master/src/Flows/Hungarian.java)
   * [Max Flow - Dinic's algorithm](https://github.com/pct960/Competitive_Programming/blob/master/src/Flows/MaxFlowDinic.java)
   * [Max Flow - Edmonds Karp algorithm](https://github.com/pct960/Competitive_Programming/blob/master/src/Flows/MaxFlowEdmondsKarp.java)
@@ -115,7 +115,7 @@ and the categorisation is based on [Sibyter](https://play.google.com/store/apps/
   * [Min Cost Flow](https://github.com/pct960/Competitive_Programming/blob/master/src/Flows/MinCostFlow.java)
   * [Min Cost Flow Simple](https://github.com/pct960/Competitive_Programming/blob/master/src/Flows/MinCostFlowSimple.java)
 
-* Geometry
+* [Geometry](https://github.com/pct960/Competitive_Programming/tree/master/src/Geometry)
   * [General](https://github.com/pct960/Competitive_Programming/blob/master/src/Geometry/AngleAreaOrientationSortRotationPerpendicular.java) - Angle,area,orientation,sort,rotation,perpendicular
   * [Circle Operations](https://github.com/pct960/Competitive_Programming/blob/master/src/Geometry/CircleOperations.java)
   * [Closest Points](https://github.com/pct960/Competitive_Programming/blob/master/src/Geometry/Closest2Points.java) - in a planar point set using divide and conquer
@@ -143,32 +143,32 @@ and the categorisation is based on [Sibyter](https://play.google.com/store/apps/
   * [Segments Union length](https://github.com/pct960/Competitive_Programming/blob/master/src/Geometry/SegmentsUnion.java)
   * [Vector2d class template](https://github.com/pct960/Competitive_Programming/blob/master/src/Geometry/Vector2d.java)
   
-* Graphs
+* [Graphs](https://github.com/pct960/Competitive_Programming/tree/master/src/Graphs)
   * [Centroid Decomposition](https://github.com/pct960/Competitive_Programming/blob/master/src/Graphs/CentroidDecomposition.java)
   * [Graph Coloring Greedy - second version](https://github.com/pct960/Competitive_Programming/blob/master/src/Graphs/GraphColoringGreedy2.java)
   * [Graph Coloring Greedy](https://github.com/pct960/Competitive_Programming/blob/master/src/Graphs/GraphColoringGreedy.java)
   * [Graph class template](https://github.com/pct960/Competitive_Programming/blob/master/src/Graphs/Graph.java)
   * [Tree Centers](https://github.com/pct960/Competitive_Programming/blob/master/src/Graphs/TreeCenters.java)
 
-* Linear Algebra
+* [Linear Algebra](https://github.com/pct960/Competitive_Programming/tree/master/src/Linear_Algebra)
   * [Determinant - using Gauss and Crout algorithm](https://github.com/pct960/Competitive_Programming/blob/master/src/Graphs/TreeCenters.java)
   * [Determinant - second version](https://github.com/pct960/Competitive_Programming/blob/master/src/Linear_Algebra/Determinant1.java)
   * [Determinant - third version](https://github.com/pct960/Competitive_Programming/blob/master/src/Linear_Algebra/Determinant2.java)
   * [Gaussian elimination algorithm](https://github.com/pct960/Competitive_Programming/blob/master/src/Linear_Algebra/Gauss.java)
   * [Matrix](https://github.com/pct960/Competitive_Programming/blob/master/src/Linear_Algebra/Matrix.java)
 
-* Lowest Common Ancestor
+* [Lowest Common Ancestor](https://github.com/pct960/Competitive_Programming/tree/master/src/Lowest_Common_Ancestor)
   * [LCA](https://github.com/pct960/Competitive_Programming/blob/master/src/Lowest_Common_Ancestor/Lca.java)
   * [LCA](https://github.com/pct960/Competitive_Programming/blob/master/src/Lowest_Common_Ancestor/LcaSparseTable.java): Sparse Table
   
-* Matching
+* [Matching](https://github.com/pct960/Competitive_Programming/tree/master/src/Matching)
   * [Max Matching - second version](https://github.com/pct960/Competitive_Programming/blob/master/src/Matching/MaxMatching2.java)
   * [Max Matching for general graphs - Edmond's Blossom algorithm](https://github.com/pct960/Competitive_Programming/blob/master/src/Matching/MaxMatchingEdmonds.java)
   * [Max Matching for bipartite graphs - Hopcroft-Karp algorithm](https://github.com/pct960/Competitive_Programming/blob/master/src/Matching/MaxMatchingHopcroftKarp.java)
   * [Max Matching - Kuhn's algorithm](https://github.com/pct960/Competitive_Programming/blob/master/src/Matching/MaxMatching.java)
   * [Max Matching for bipartite graphs - randomised algorithm](https://github.com/pct960/Competitive_Programming/blob/master/src/Matching/MaxMatchingRandomized.java)
 
-* Miscellaneous
+* [Miscellaneous](https://github.com/pct960/Competitive_Programming/tree/master/src/Miscellaneous)
   * [All Nearest Smaller Values](https://github.com/pct960/Competitive_Programming/blob/master/src/Miscellaneous/AllNearestSmallerValues.java) - for each position in a sequence of numbers, search among the previous positions for the     last position that contains a smaller value. 
   * [Array Rotation](https://github.com/pct960/Competitive_Programming/blob/master/src/Miscellaneous/ArrayRotate.java)
   * [Contraction Hierarchies](https://github.com/pct960/Competitive_Programming/blob/master/src/Miscellaneous/ContractionHierarchies.java)
@@ -185,17 +185,17 @@ and the categorisation is based on [Sibyter](https://play.google.com/store/apps/
   * [Two satisfiability](https://github.com/pct960/Competitive_Programming/blob/master/src/Miscellaneous/Sat2.java)
   * [JFrame visualiser view](https://github.com/pct960/Competitive_Programming/blob/master/src/Miscellaneous/Vis.java)
 
-* Number_Theory
+* [Number_Theory](https://github.com/pct960/Competitive_Programming/tree/master/src/Number_Theory)
   * [Euclid](https://github.com/pct960/Competitive_Programming/blob/master/src/Number_Theory/Euclid.java) - Euclidean algorithm,GCD,LCM,mod inverse,Chinese remainder theorem
   * [Factorisation](https://github.com/pct960/Competitive_Programming/blob/master/src/Number_Theory/Factorization.java) - Fermat's and Pollard's methods
   * [Primes and Divisors](https://github.com/pct960/Competitive_Programming/blob/master/src/Number_Theory/PrimesAndDivisors.java) - Prime numbers, Sieve of Erasthosenes, Euler's totient function
 
-* Numeric_Methods
+* [Numeric_Methods](https://github.com/pct960/Competitive_Programming/tree/master/src/Numeric_Methods)
   * [FFT](https://github.com/pct960/Competitive_Programming/blob/master/src/Numeric_Methods/FFT.java) - Fast Fourier's Transform
   * [IFFT](https://github.com/pct960/Competitive_Programming/blob/master/src/Numeric_Methods/IFFT.java) - Inverse Fast Fourier's Transform
   * [Simpson's Integration](https://github.com/pct960/Competitive_Programming/blob/master/src/Numeric_Methods/SimpsonIntegration.java)
 
-* Optimisation
+* [Optimisation](https://github.com/pct960/Competitive_Programming/tree/master/src/Optimisation)
   * [Genetic Algorithm for TSP](https://github.com/pct960/Competitive_Programming/blob/master/src/Optimisation/GeneticAlgorithm.java)
   * [Hill Climbing](https://github.com/pct960/Competitive_Programming/blob/master/src/Optimisation/HillClimbing.java)
   * [Lin Kernighan Heuristic for TSP - second version](https://github.com/pct960/Competitive_Programming/blob/master/src/Optimisation/LinKernighan2.java)
@@ -204,7 +204,7 @@ and the categorisation is based on [Sibyter](https://play.google.com/store/apps/
   * [Simplex](https://github.com/pct960/Competitive_Programming/blob/master/src/Optimisation/Simplex.java)
   * [Simulated Annealing](https://github.com/pct960/Competitive_Programming/blob/master/src/Optimisation/SimulatedAnnealing.java)
 
-* Shortest_Paths
+* [Shortest_Paths](https://github.com/pct960/Competitive_Programming/tree/master/src/Shortest_Paths)
   * [Bellman Ford algorithm](https://github.com/pct960/Competitive_Programming/blob/master/src/Shortest_Paths/BellmanFord2.java) - second version
   * [Bellman Ford algorithm](https://github.com/pct960/Competitive_Programming/blob/master/src/Shortest_Paths/BellmanFord.java)
   * [Dijkstra Custom Heap](https://github.com/pct960/Competitive_Programming/blob/master/src/Shortest_Paths/DijkstraCustomHeap.java) - Shortest paths. Dijkstra's algorithm with custom binary heap
@@ -213,18 +213,18 @@ and the categorisation is based on [Sibyter](https://play.google.com/store/apps/
   * [Dijkstra Segment Tree](https://github.com/pct960/Competitive_Programming/blob/master/src/Shortest_Paths/DijkstraSegmentTree.java)
   * [Floyd's and Warshall's algorithm](https://github.com/pct960/Competitive_Programming/blob/master/src/Shortest_Paths/FloydWarshall.java)
 
-* Sorting
+* [Sorting](https://github.com/pct960/Competitive_Programming/tree/master/src/Sorting)
   * [NthElement](https://github.com/pct960/Competitive_Programming/blob/master/src/Sorting/NthElement.java) - Kth order statistic 
   * [Array Partition](https://github.com/pct960/Competitive_Programming/blob/master/src/Sorting/Partition.java)
   * [Quicksort](https://github.com/pct960/Competitive_Programming/blob/master/src/Sorting/Quicksort.java)
   * [Sort](https://github.com/pct960/Competitive_Programming/blob/master/src/Sorting/Sort.java) - Quicksort, mergesort, heapsort, bubblesort, selection sort, insert sort, count sort and radix sort
 
-* Spanning_Tree
+* [Spanning_Tree](https://github.com/pct960/Competitive_Programming/tree/master/src/Spanning_Tree)
   * [Prim Heap](https://github.com/pct960/Competitive_Programming/blob/master/src/Spanning_Tree/PrimHeap.java)
   * [Prim's algorithm](https://github.com/pct960/Competitive_Programming/blob/master/src/Spanning_Tree/Prim.java)
   * [Steiner Tree](https://github.com/pct960/Competitive_Programming/blob/master/src/Spanning_Tree/SteinerTree.java)
 
-* Strings
+* [Strings](https://github.com/pct960/Competitive_Programming/tree/master/src/Strings)
   * [Aho-Corasick Algorithm](https://github.com/pct960/Competitive_Programming/blob/master/src/Strings/AhoCorasick.java)
   * [Aho-Corasick Algorithm](https://github.com/pct960/Competitive_Programming/blob/master/src/Strings/AhoCorasickSimple.java) - simple version
   * [Calc](https://github.com/pct960/Competitive_Programming/blob/master/src/Strings/Calc2.java) - Expression parser
