@@ -74,7 +74,7 @@ and the categorisation is based on [Sibyter](https://play.google.com/store/apps/
   * [Treap with implicit keys and interval modification]()
   
 * Depth_First Search
-  * [Biconnectivity - Bridges, cut points, edge biconnected components, condenstaion tree]()
+  * [Biconnectivity]() - Bridges, cut points, edge biconnected components, condenstaion tree
   * [Non recursive DFS]()
   * [Eulerian Cycle]()
   * [Strongly Connected Components - Kosaraju's Algorithm]()
@@ -116,9 +116,9 @@ and the categorisation is based on [Sibyter](https://play.google.com/store/apps/
   * [Min Cost Flow Simple]()
 
 * Geometry
-  * [General - Angle,area,orientation,sort,rotation,perpendicular ]()
+  * [General]() - Angle,area,orientation,sort,rotation,perpendicular
   * [Circle Operations]()
-  * [Closest Points - in a planar point set using divide and conquer]()
+  * [Closest Points]() - in a planar point set using divide and conquer
   * [Complex]()
   * [Convex Cut]()
   * [Convex Hull]()
@@ -158,19 +158,40 @@ and the categorisation is based on [Sibyter](https://play.google.com/store/apps/
   * [Matrix]()
 
 * Lowest Common Ancestor
-  * LCA
+  * [LCA]()
   * LCA: Sparse Table
   
 * Matching
-  * Max Matching - second version
-  * MaxMatchingEdmonds.java
-  * MaxMatchingHopcroftKarp.java
-  * Max Matching - Kuhn's algorithm
-  * MaxMatchingRandomized.java
+  * [Max Matching - second version]()
+  * [Max Matching for general graphs - Edmond's Blossom algorithm]()
+  * [Max Matching for bipartite graphs - Hopcroft-Karp algorithm]()
+  * [Max Matching - Kuhn's algorithm]()
+  * [Max Matching for bipartite graphs - randomised algorithm]()
 
 * Miscellaneous
+  * [All Nearest Smaller Values]() - for each position in a sequence of numbers, search among the previous positions for the     last position that contains a smaller value. 
+  * [Array Rotation]()
+  * [Contraction Hierarchies]()
+  * [Cycle Detection]() - Floyd's and Brent's algorithm
+  * [Inversions]() - number of inversions
+  * [Karatsuba Multiply]()
+  * [Knight Distance]() - minimum number of moves a knight needs to reach from one square to another on an empty board
+  * [Longest Increasing Subsequence]()
+  * [Maximum Zero Submatrix]()
+  * [Monotonic Approximation]()
+  * [Generic Pair class template]()
+  * [Pair Long class template]()
+  * [Rational numbers class]()
+  * [Two satisfiability]()
+  * [JFrame visualiser view]()
+
 * Number_Theory
+  * [Euclid]() - Euclidean algorithm,GCD,LCM,mod inverse,Chinese remainder theorem
+  * [Factorisation]() - Fermat's and Pollard's methods
+  * [Primes and Divisors]() - Prime numbers, Sieve of Erasthosenes, Euler's totient function
+
 * Numeric_Methods
+
 * Optimisation
 * Shortest_Paths
 * Sorting
